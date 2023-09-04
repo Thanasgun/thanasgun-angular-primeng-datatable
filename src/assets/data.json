@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1023,
+    "name": "Maryann Royster",
+    "department": "Accounting",
+    "status": "Operated",
+    "position": "Auditor",
+    "date": "2017-03-11"
+  },
+  {
+    "id": 1024,
+    "name": "Alisha Slusarski",
+    "department": "IT",
+    "status": "Resigned",
+    "position": "Software Engineer",
+    "date": "2018-03-27"
+  },
+  {
+    "id": 1025,
+    "name": "Allene Iturbide",
+    "department": "Marketing",
+    "status": "Operated",
+    "position": "Graphic Design",
+    "date": "2016-02-20"
+  }
+]
